@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gregor
 #### I am a fullstack software developer
-![I am a fullstack software developer](60511157_10219010903413690_4616518878837604352_o.jpg)
+![I am a fullstack software developer](assets/60511157_10219010903413690_4616518878837604352_o.jpg)
 
 Java enthusiast, love to build applications using new technologies and patterns.
 
