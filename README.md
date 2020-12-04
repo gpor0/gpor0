@@ -28,7 +28,6 @@ Skills: Java / Python / REACT / JS
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Chrome user" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
