@@ -1,6 +1,3 @@
-<!--
-**gpor0/gpor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋, my name is Gregor
 #### I am a fullstack software developer
 ![I am a fullstack software developer](60511157_10219010903413690_4616518878837604352_o.jpg)
