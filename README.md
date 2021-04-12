@@ -2,7 +2,7 @@
 #### I am a fullstack software engineer & architect
 <img src="assets/60511157_10219010903413690_4616518878837604352_o.jpg" width="400">
 
-Java enthusiast, love to build applications using new technologies and patterns.
+Java enthusiast, alpaca lover, full stack application developer who likes to use new technologies and patterns.
 
 Skills: Java / Python / REACT / JS
 
