@@ -6,8 +6,8 @@ Java enthusiast, alpaca lover, full stack application developer who likes to use
 
 Skills: Java / Python / REACT / JS
 
-- 🔭 I’m currently working on ERP using microservices 
-- 🌱 I’m currently learning blockchain 
+- 🔭 I’m currently working on company digitalization process using microservices 
+- 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate on open source 
 - 🤔 I’m looking for help with Jaffas library 
 - 💬 Ask me about anything 
