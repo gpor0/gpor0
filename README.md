@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Gregor
 #### I am a fullstack software engineer & architect
+
 <img src="assets/60511157_10219010903413690_4616518878837604352_o.jpg" width="400">
+<small>This image of alpaca is just to feel my profile more interesting.</small>
 
 Java enthusiast, alpaca lover, full stack application developer who likes to use new technologies and patterns.
 
