@@ -43,6 +43,7 @@ Skills: Java / Python / REACT / JS
 List of favourite repos:
 
 - You dont need library https://github.com/you-dont-need/
+- TLDR https://github.com/sderosiaux/every-single-day-i-tldr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gpor0)  
 
