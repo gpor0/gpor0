@@ -2,7 +2,7 @@
 #### I am a fullstack software engineer & architect
 
 <img src="assets/60511157_10219010903413690_4616518878837604352_o.jpg" width="400">
-<sub><sup>This image of alpaca is just to feel my profile more interesting.</sup></sub>
+<sub><sup>Yes, this alpaca image got my profile far more interesting.</sup></sub>
 <br/>
 
 Java enthusiast, alpaca lover, full stack application developer who likes to use new technologies and patterns.
